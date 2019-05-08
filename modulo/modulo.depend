@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1557324232 source:c:\users\makky\desktop\jasminovi\zadaci\modulo\main.cpp
+	<iostream>
+	<algorithm>
+	<string>
+	<vector>
+
