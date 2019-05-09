@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1557402997 source:c:\users\makky\desktop\jasminovi\jasminovi_parashuting\main.cpp
+	<iostream>
+	<math.h>
+	<fstream>
+	<string>
+	<vector>
+	<sstream>
+	<stdlib.h>
+
